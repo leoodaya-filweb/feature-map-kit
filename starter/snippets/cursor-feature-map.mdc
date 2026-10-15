@@ -1,0 +1,8 @@
+---
+description: Feature map protocol — read before touching source
+globs: ["**/*"]
+alwaysApply: true
+---
+Follow `AGENTS.md § Feature map` (mandatory). Start at `features/README.md`, open only the feature
+files your task needs (never read `features/*.md` in bulk), update the owning `features/<slug>.md` in
+the same change, and end the PR description with a `Feature map:` line.

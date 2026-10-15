@@ -1,0 +1,3 @@
+# The feature map is documentation, not a web asset. If this repository's root is ever served by
+# Apache, keep it private. Harmless where Apache is not used.
+Require all denied
